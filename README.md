@@ -17,7 +17,7 @@ Collection d'outils système Bash pour Linux.
 ## Installation
 
 \`\`\`bash
-git clone https://github.com/TON_LOGIN/syskit.git
+git clone https://github.com/sompaluckyrenklis-design/syskit.git
 cd syskit
 bash install.sh
 source ~/.bashrc
